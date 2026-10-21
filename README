@@ -1,0 +1,292 @@
+<div align="center">
+
+# 🎓 EduTrack AI – Tarefas
+
+**Innovation Lab: Desenvolvimento Avançado No/Low Code**
+Faculdade Impacta · 2025/2026
+
+*Clique em cada tarefa para ver os itens a entregar e as evidências.*
+
+</div>
+
+---
+
+## 📊 Progresso
+
+| # | Tarefa | Status |
+|:-:|--------|:------:|
+| 01 | Primeiro Contato com Git e GitHub | 📝 Detalhada |
+| 02 | VS Code, Node.js e Configuração de IA | 📝 Detalhada |
+| 03 | Instalação e Inicialização do OpenSpec | 📝 Detalhada |
+| 04 | _A definir_ | ⏳ Aguardando enunciado |
+| 05 | _A definir_ | ⏳ Aguardando enunciado |
+| 06 | _A definir_ | ⏳ Aguardando enunciado |
+| 07 | _A definir_ | ⏳ Aguardando enunciado |
+| 08 | _A definir_ | ⏳ Aguardando enunciado |
+| 09 | _A definir_ | ⏳ Aguardando enunciado |
+| 10 | _A definir_ | ⏳ Aguardando enunciado |
+| 11 | _A definir_ | ⏳ Aguardando enunciado |
+| 12 | _A definir_ | ⏳ Aguardando enunciado |
+| 13 | _A definir_ | ⏳ Aguardando enunciado |
+| 14 | _A definir_ | ⏳ Aguardando enunciado |
+| 15 | _A definir_ | ⏳ Aguardando enunciado |
+| 16 | _A definir_ | ⏳ Aguardando enunciado |
+
+> Atualize a coluna *Status* para ✅ quando a entrega for enviada no Classroom.
+
+---
+
+## 📚 Tarefas
+
+<details>
+<summary><b>📌 Tarefa 01 – Primeiro Contato com Git e GitHub</b></summary>
+
+*Módulo 0 – Fundamentos*
+
+### 📦 Entregáveis
+
+1. 🔗 Link do repositório GitHub (`edutrack-ai`).
+
+2. **Print do terminal com o resultado de `git --version`.**  
+   📁 `prints/tarefa-01/git-version.png`
+   
+   ![Print do terminal com o resultado de `git --version`.](prints/tarefa-01/git-version.png)
+   
+3. **Print do histórico de commits no GitHub (commit *"docs: primeiro commit - README inicial"*).**  
+   📁 `prints/tarefa-01/historico-commits.png`
+   
+   ![Print do histórico de commits no GitHub (commit *"docs: primeiro commit - README inicial"*).](prints/tarefa-01/historico-commits.png)
+   
+### ✅ Critérios de avaliação
+
+- [ ] Git instalado e versão verificada
+- [ ] Conta GitHub com e-mail @aluno.faculdadeimpacta.edu.br
+- [ ] Repositório criado, clonado e com README.md
+- [ ] Commit e push realizados
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 02 – VS Code, Node.js e Configuração de IA</b></summary>
+
+*Módulo 0 – Fundamentos*
+
+### 📦 Entregáveis
+
+1. **Print do VS Code aberto com a pasta `edutrack-ai` visível no Explorer.**  
+   📁 `prints/tarefa-02/vscode-explorer.png`
+   
+   ![Print do VS Code aberto com a pasta `edutrack-ai` visível no Explorer.](prints/tarefa-02/vscode-explorer.png)
+   
+2. **Print do terminal (dentro do VS Code) com o resultado de `node --version`.**  
+   📁 `prints/tarefa-02/node-version.png`
+   
+   ![Print do terminal (dentro do VS Code) com o resultado de `node --version`.](prints/tarefa-02/node-version.png)
+   
+### ✅ Critérios de avaliação
+
+- [ ] VS Code instalado e abrindo a pasta do projeto
+- [ ] Node.js LTS instalado e versão verificada
+- [ ] Gemini Code Assist instalado e autenticado com e-mail institucional
+- [ ] Extensão XanoScript instalada
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 03 – Instalação e Inicialização do OpenSpec</b></summary>
+
+*Módulo 0 – Fundamentos de Git/GitHub e XanoScript*
+
+### 📦 Entregáveis
+
+1. **Print do terminal com o resultado de `openspec --version`.**  
+   📁 `prints/tarefa-03/openspec-version.png`
+   
+   ![Print do terminal com o resultado de `openspec --version`.](prints/tarefa-03/openspec-version.png)
+   
+2. **Print do VS Code mostrando a pasta `openspec/`, `project.md` e os dois `AGENTS.md` (raiz e dentro de `openspec/`).**  
+   📁 `prints/tarefa-03/vscode-openspec.png`
+   
+   ![Print do VS Code mostrando a pasta `openspec/`, `project.md` e os dois `AGENTS.md` (raiz e dentro de `openspec/`).](prints/tarefa-03/vscode-openspec.png)
+   
+3. **Print do histórico de commits no GitHub com o commit *"feat: inicialização do OpenSpec no projeto"*.**  
+   📁 `prints/tarefa-03/historico-commits.png`
+   
+   ![Print do histórico de commits no GitHub com o commit *"feat: inicialização do OpenSpec no projeto"*.](prints/tarefa-03/historico-commits.png)
+   
+4. 🔗 Link do repositório atualizado (se solicitado novamente).
+
+### ✅ Critérios de avaliação
+
+- [ ] CLI OpenSpec instalada e versão verificada
+- [ ] `openspec init` executado com sucesso
+- [ ] Mudanças commitadas com mensagem clara
+- [ ] Commit visível no GitHub incluindo a pasta `openspec/`
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 04 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 05 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 06 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 07 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 08 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 09 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 10 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 11 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 12 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 13 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 14 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 15 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+<details>
+<summary><b>📌 Tarefa 16 – <i>a definir</i></b></summary>
+
+⏳ Enunciado ainda não adicionado.
+
+### 📦 Entregáveis
+
+_Em breve._
+
+</details>
+
+---
+
+## 🗂️ Estrutura do repositório
+
+```text
+Tarefas/
+├── README.md
+└── prints/
+    ├── tarefa-01/
+    │   ├── git-version.png
+    │   └── historico-commits.png
+    ├── tarefa-02/
+    │   ├── vscode-explorer.png
+    │   └── node-version.png
+    ├── tarefa-03/
+    │   ├── openspec-version.png
+    │   ├── vscode-openspec.png
+    │   └── historico-commits.png
+    └── ... (tarefa-04 até tarefa-16)
+```
+
+> 💡 Use **exatamente** os nomes de arquivo acima: as imagens aparecem automaticamente nas seções ao serem enviadas.
